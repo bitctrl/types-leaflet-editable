@@ -4,7 +4,7 @@
   "private": true,
   "types": "types",
   "scripts": {
-    "lint": "dtslint types"
+    "test": "dtslint types"
   },
   "dependencies": {
     "@types/leaflet": "^1.5.0",
