@@ -4,4 +4,4 @@
 
 Contains a TypeScript declaration file for the Leaflet plug-in Leaflet.Editable.
 
-Source https://dhttp://leaflet.github.io/Leaflet.Editable/doc/api.html
+Source http://leaflet.github.io/Leaflet.Editable/doc/api.html
